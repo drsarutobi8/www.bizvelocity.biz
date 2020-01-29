@@ -1,0 +1,584 @@
+HTTrack3.49-2 launched on Wed, 29 Jan 2020 23:40:37 at www.bizvelocity.biz +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w www.bizvelocity.biz -O "/home/drsarutobi/websites/www.bizvelocity.biz" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:40:41	Warning: 	Found for www.bizvelocity.biz/wordpress/
+23:40:41	Warning: 	File has moved from www.bizvelocity.biz/wordpress/ to http://www.bizvelocity.biz/wordpress/home-en/
+23:43:19	Error: 	"Method Not Allowed" (405) at link www.bizvelocity.biz/wordpress/xmlrpc.php (from www.bizvelocity.biz/wordpress/home-en/)
+23:43:20	Error: 	"Not Found" (404) at link p.jwpcdn.com/ (from www.bizvelocity.biz/wordpress/home-en/)
+23:43:21	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/rss, /archive/, /?filters (see in the options to disable this)
+23:43:21	Warning: 	Moved Permanently for s.w.org/
+23:43:21	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+23:48:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2262): www.bizvelocity.biz/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.bizvelocity.biz%2Fwordpress%2Ffaq-th%2F
+23:50:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=327
+23:50:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=327 to http://www.bizvelocity.biz/wordpress/solutions-en/
+23:50:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=330
+23:50:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=330 to http://www.bizvelocity.biz/wordpress/solutions-en/bizstandard-en/
+23:50:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=335
+23:50:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=335 to http://www.bizvelocity.biz/wordpress/solutions-en/bizproduction-en/
+23:50:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=332
+23:50:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=332 to http://www.bizvelocity.biz/wordpress/solutions-en/bizpos-en/
+23:50:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=337
+23:50:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=337 to http://www.bizvelocity.biz/wordpress/solutions-en/bizservice-en/
+23:50:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=340
+23:50:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=340 to http://www.bizvelocity.biz/wordpress/solutions-en/bizquality-en/
+23:50:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=307
+23:50:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=307 to http://www.bizvelocity.biz/wordpress/industry-en/
+23:50:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=405
+23:50:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=405 to http://www.bizvelocity.biz/wordpress/industry-en/foods-beverage-en/
+23:50:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=412
+23:50:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=412 to http://www.bizvelocity.biz/wordpress/industry-en/metal-processing-en/
+23:50:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=419
+23:50:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=419 to http://www.bizvelocity.biz/wordpress/industry-en/construction-en/
+23:50:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=426
+23:50:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=426 to http://www.bizvelocity.biz/wordpress/industry-en/electronics-en/
+23:50:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=301
+23:50:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=301 to http://www.bizvelocity.biz/wordpress/industry-en/wholesale-retail-en/
+23:50:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2310
+23:50:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2310 to http://www.bizvelocity.biz/wordpress/testimonial-en/
+23:50:45	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/uploads/ (from www.bizvelocity.biz/wordpress/testimonial-en/)
+23:50:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2300
+23:50:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2300 to http://www.bizvelocity.biz/wordpress/faq-en/
+23:50:45	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/css/ (from www.bizvelocity.biz/wordpress/blog/)
+23:50:58	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2307
+23:50:58	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2307 to http://www.bizvelocity.biz/wordpress/contact-us-en/
+23:50:58	Warning: 	Retry after error 500 (Internal Server Error) at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=2 (from www.bizvelocity.biz/wordpress/contact-us-en/)
+23:50:58	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2
+23:50:58	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2 to http://www.bizvelocity.biz/wordpress/contact-us-th/
+23:50:58	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4365
+23:50:58	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4365 to http://www.bizvelocity.biz/wordpress/in-house-training-201902/
+23:50:58	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4321
+23:50:58	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4321 to http://www.bizvelocity.biz/wordpress/total-solution-for-smes-by-dbd/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=192
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=192 to http://www.bizvelocity.biz/wordpress/solutions-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizstandard-th/
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizstandard-th/ to http://www.bizvelocity.biz/wordpress/solutions-th/bizstandard-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizproduction-th/
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizproduction-th/ to http://www.bizvelocity.biz/wordpress/solutions-th/bizproduction-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizpos-th/
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizpos-th/ to http://www.bizvelocity.biz/wordpress/solutions-th/bizpos-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizservice-th/
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizservice-th/ to http://www.bizvelocity.biz/wordpress/solutions-th/bizservice-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizquality-th/
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizquality-th/ to http://www.bizvelocity.biz/wordpress/solutions-th/bizquality-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=62
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=62 to http://www.bizvelocity.biz/wordpress/solutions-th/bizstandard-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=69
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=69 to http://www.bizvelocity.biz/wordpress/solutions-th/bizpos-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=65
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=65 to http://www.bizvelocity.biz/wordpress/solutions-th/bizproduction-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=323
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=323 to http://www.bizvelocity.biz/wordpress/solutions-th/bizquality-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=218
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=218 to http://www.bizvelocity.biz/wordpress/solutions-th/bizservice-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=162
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=162 to http://www.bizvelocity.biz/wordpress/industry-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=258
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=258 to http://www.bizvelocity.biz/wordpress/industry-th/foods-beverage-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=275
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=275 to http://www.bizvelocity.biz/wordpress/industry-th/metal-processing-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=252
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=252 to http://www.bizvelocity.biz/wordpress/industry-th/electronics-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=266
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=266 to http://www.bizvelocity.biz/wordpress/industry-th/construction-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=280
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=280 to http://www.bizvelocity.biz/wordpress/industry-th/wholesale-retail-th/
+23:51:02	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4109
+23:51:02	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4109 to http://www.bizvelocity.biz/wordpress/industry-th/livestock-th/
+23:51:06	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1539
+23:51:06	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1539 to http://www.bizvelocity.biz/wordpress/testimonials-th/
+23:51:06	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1570
+23:51:06	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1570 to http://www.bizvelocity.biz/wordpress/faq-th/
+23:51:29	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizquality-th/16013936-textile-factory-worker-and-quality-controller-checking-quality/
+23:51:29	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizquality-th/16013936-textile-factory-worker-and-quality-controller-checking-quality/ to http://www.bizvelocity.biz/wordpress/16013936-textile-factory-worker-and-quality-controller-checking-quality/
+23:51:34	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/software-expo-2013-th/img_26491-2/
+23:51:34	Warning: 	File has moved from www.bizvelocity.biz/wordpress/software-expo-2013-th/img_26491-2/ to http://www.bizvelocity.biz/wordpress/img_26491-2/
+23:51:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3445
+23:51:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3445 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/
+23:51:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizuniversity-intro-th/
+23:51:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizuniversity-intro-th/ to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-intro-th/
+23:51:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizuniversity-setup-th/
+23:51:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizuniversity-setup-th/ to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-setup-th/
+23:51:42	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizuniversity-procurement-th/
+23:51:42	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizuniversity-procurement-th/ to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-procurement-th/
+23:51:43	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizuniversity-sales-th/
+23:51:43	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizuniversity-sales-th/ to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-sales-th/
+23:51:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizuniversity-production-th/
+23:51:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizuniversity-production-th/ to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-production-th/
+23:51:46	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizuniversity-ethanol-th/
+23:51:46	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizuniversity-ethanol-th/ to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-ethanol-th/
+23:51:47	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3498
+23:51:47	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3498 to http://www.bizvelocity.biz/wordpress/forums/forum/idea-exchange/
+23:51:51	Warning: 	Note: due to 0.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4373
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4373 to http://www.bizvelocity.biz/wordpress/book-scaling-up/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4362
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4362 to http://www.bizvelocity.biz/wordpress/%e0%b8%ad%e0%b8%9a%e0%b8%a3%e0%b8%a1-bizvelocity-%e0%b8%a3%e0%b8%ad%e0%b8%9a-201902/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1822
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1822 to http://www.bizvelocity.biz/wordpress/solutions-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1827
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1827 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizstandard-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1826
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1826 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizproduction-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1824
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1824 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizservice-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1823
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1823 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizquality-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1825
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1825 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizpos-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1850
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1850 to http://www.bizvelocity.biz/wordpress/industry-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1855
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1855 to http://www.bizvelocity.biz/wordpress/industry-zh/foods-beverage-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizstandard-zh/
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizstandard-zh/ to http://www.bizvelocity.biz/wordpress/solutions-zh/bizstandard-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizproduction-zh/
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizproduction-zh/ to http://www.bizvelocity.biz/wordpress/solutions-zh/bizproduction-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizquality-zh/
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizquality-zh/ to http://www.bizvelocity.biz/wordpress/solutions-zh/bizquality-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1853
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1853 to http://www.bizvelocity.biz/wordpress/industry-zh/metal-processing-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1856
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1856 to http://www.bizvelocity.biz/wordpress/industry-zh/electronics-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1854
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1854 to http://www.bizvelocity.biz/wordpress/industry-zh/construction-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1851
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1851 to http://www.bizvelocity.biz/wordpress/industry-zh/wholesale-retail-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1813
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1813 to http://www.bizvelocity.biz/wordpress/testimonials-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1789
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1789 to http://www.bizvelocity.biz/wordpress/faq-zh/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1797
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1797 to http://www.bizvelocity.biz/wordpress/contact-us-zh/
+23:51:56	Warning: 	Retry after error 500 (Internal Server Error) at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=3 (from www.bizvelocity.biz/wordpress/contact-us-zh/)
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4279
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4279 to http://www.bizvelocity.biz/wordpress/industry-th/estate-th/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3435
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3435 to http://www.bizvelocity.biz/wordpress/bizpos-en/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3131
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3131 to http://www.bizvelocity.biz/wordpress/setup-company-setting/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3126
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3126 to http://www.bizvelocity.biz/wordpress/bizproduction-for-manufacturer/
+23:51:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3122
+23:51:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3122 to http://www.bizvelocity.biz/wordpress/3122/
+23:51:59	Warning: 	Retry after error 500 () at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=2 (from www.bizvelocity.biz/wordpress/contact-us-en/)
+23:51:59	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4332
+23:51:59	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4332 to http://www.bizvelocity.biz/wordpress/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-total-solutions-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-smes-%e0%b9%82%e0%b8%94%e0%b8%a2%e0%b8%81%e0%b8%a3%e0%b8%a1/
+23:51:59	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4116
+23:51:59	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4116 to http://www.bizvelocity.biz/wordpress/industry-zh/livestock-zh/
+23:51:59	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4004
+23:51:59	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4004 to http://www.bizvelocity.biz/wordpress/procurement-th/
+23:51:59	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3876
+23:51:59	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3876 to http://www.bizvelocity.biz/wordpress/salessupport2-th/
+23:52:07	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3729
+23:52:07	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3729 to http://www.bizvelocity.biz/wordpress/multi-price/
+23:52:07	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3539
+23:52:07	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3539 to http://www.bizvelocity.biz/wordpress/bizquality-th-2/
+23:52:14	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3512
+23:52:14	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3512 to http://www.bizvelocity.biz/wordpress/software-expo-asia-2013-th/
+23:52:22	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3433
+23:52:22	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3433 to http://www.bizvelocity.biz/wordpress/bizpos-th/
+23:52:22	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3118
+23:52:22	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3118 to http://www.bizvelocity.biz/wordpress/%e0%b9%82%e0%b8%a1%e0%b8%94%e0%b8%b9%e0%b8%a5-bizproduction-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%98%e0%b8%b8%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9c-2/
+23:52:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3515
+23:52:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3515 to http://www.bizvelocity.biz/wordpress/forums/topic/your-feedback-th/
+23:52:48	Warning: 	Retry after error 500 () at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=3 (from www.bizvelocity.biz/wordpress/contact-us-zh/)
+23:52:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2933
+23:52:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2933 to http://www.bizvelocity.biz/wordpress/%e0%b9%82%e0%b8%a1%e0%b8%94%e0%b8%b9%e0%b8%a5-bizstandard-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%98%e0%b8%b8%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%8b%e0%b8%b7%e0%b9%89%e0%b8%ad/
+23:52:48	Error: 	"" (500) after 2 retries at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=2 (from www.bizvelocity.biz/wordpress/contact-us-en/)
+23:52:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2925
+23:52:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2925 to http://www.bizvelocity.biz/wordpress/%e0%b9%80%e0%b8%a2%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a1%e0%b8%8a%e0%b8%a1-%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97-%e0%b9%80%e0%b8%89%e0%b8%b4%e0%b8%99%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%80/
+23:52:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2922
+23:52:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2922 to http://www.bizvelocity.biz/wordpress/%e0%b9%80%e0%b8%a2%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a1%e0%b8%8a%e0%b8%a1-%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97-%e0%b8%a2%e0%b8%b9%e0%b9%80%e0%b8%99%e0%b8%b5%e0%b8%a2%e0%b8%99/
+23:52:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/feed/?attachment_id=3537
+23:52:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/feed/?attachment_id=3537 to http://www.bizvelocity.biz/wordpress/16013936-textile-factory-worker-and-quality-controller-checking-quality/
+23:52:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3537
+23:52:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3537 to http://www.bizvelocity.biz/wordpress/16013936-textile-factory-worker-and-quality-controller-checking-quality/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/feed/?attachment_id=3507
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/feed/?attachment_id=3507 to http://www.bizvelocity.biz/wordpress/img_26491-2/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3507
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3507 to http://www.bizvelocity.biz/wordpress/img_26491-2/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3740
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3740 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-intro-th/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3480
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3480 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-setup-th/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3439
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3439 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-procurement-th/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3841
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3841 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-sales-th/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3844
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3844 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-production-th/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3940
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3940 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-ethanol-th/
+23:52:56	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4317
+23:52:56	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4317 to http://www.bizvelocity.biz/wordpress/forums/forum/support/
+23:52:56	Error: 	"" (500) after 2 retries at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=3 (from www.bizvelocity.biz/wordpress/contact-us-zh/)
+23:52:57	Warning: 	HTML file (944 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/en/comments/feed/
+23:52:57	Warning: 	HTML file (923 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/home-en/feed/
+23:52:58	Warning: 	HTML file (74045 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/wp-json/
+23:53:16	Warning: 	HTML file (19108 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/feed/
+23:53:16	Warning: 	HTML file (944 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/comments/feed/
+23:53:17	Warning: 	HTML file (943 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/home-th/feed/
+23:53:20	Warning: 	HTML file (1298 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/zh/feed/
+23:53:21	Warning: 	HTML file (946 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/zh/comments/feed/
+23:53:21	Warning: 	HTML file (927 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/home-zh/feed/
+23:53:23	Warning: 	HTML file (933 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-en/feed/
+23:53:26	Warning: 	HTML file (950 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-en/bizstandard-en/feed/
+23:53:28	Warning: 	HTML file (962 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-en/bizproduction-en/feed/
+23:53:33	Warning: 	HTML file (948 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-en/bizpos-en/feed/
+23:53:34	Warning: 	HTML file (956 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-en/bizservice-en/feed/
+23:53:37	Warning: 	HTML file (956 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-en/bizquality-en/feed/
+23:53:40	Warning: 	HTML file (931 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-en/feed/
+23:53:46	Warning: 	HTML file (959 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-en/foods-beverage-en/feed/
+23:53:50	Warning: 	HTML file (959 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-en/metal-processing-en/feed/
+23:53:59	Warning: 	HTML file (958 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-en/construction-en/feed/
+23:54:02	Warning: 	HTML file (949 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-en/electronics-en/feed/
+23:54:04	Warning: 	HTML file (969 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-en/wholesale-retail-en/feed/
+23:54:06	Warning: 	HTML file (938 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/testimonial-en/feed/
+23:54:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/framework/extended/timthumb/timthumb.php?src=http://www.bizvelocity.biz/wordpress/wp-content/uploads/taweesakSalom-300x168.png&h=354&w=280
+23:54:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/framework/extended/timthumb/timthumb.php?src=http://www.bizvelocity.biz/wordpress/wp-content/uploads/2012/11/sarc.png&h=354&w=280
+23:54:13	Warning: 	HTML file (921 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/faq-en/feed/
+23:54:21	Warning: 	HTML file (935 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/contact-us-en/feed/
+23:54:23	Warning: 	HTML file (952 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/contact-us-th/feed/
+23:54:30	Warning: 	HTML file (942 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-th/feed/
+23:54:35	Warning: 	HTML file (963 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-th/bizstandard-th/feed/
+23:54:37	Warning: 	HTML file (956 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-th/bizpos-th/feed/
+23:54:41	Warning: 	HTML file (970 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-th/bizproduction-th/feed/
+23:54:41	Warning: 	HTML file (964 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-th/bizquality-th/feed/
+23:54:44	Warning: 	HTML file (964 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-th/bizservice-th/feed/
+23:54:47	Warning: 	HTML file (953 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/feed/
+23:54:51	Warning: 	HTML file (998 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/foods-beverage-th/feed/
+23:54:52	Warning: 	HTML file (973 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/metal-processing-th/feed/
+23:54:55	Warning: 	HTML file (983 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/electronics-th/feed/
+23:54:57	Warning: 	HTML file (978 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/construction-th/feed/
+23:54:59	Warning: 	HTML file (991 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/wholesale-retail-th/feed/
+23:55:02	Warning: 	HTML file (960 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/livestock-th/feed/
+23:55:06	Warning: 	HTML file (951 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/testimonials-th/feed/
+23:55:08	Warning: 	HTML file (921 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/faq-th/feed/
+23:55:14	Warning: 	HTML file (31910 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-en/
+23:55:15	Warning: 	HTML file (950 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/feed/
+23:55:21	Warning: 	HTML file (38067 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/contact-us-th/
+23:55:22	Warning: 	HTML file (938 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-zh/feed/
+23:55:25	Warning: 	HTML file (960 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-zh/bizstandard-zh/feed/
+23:55:27	Warning: 	HTML file (965 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-zh/bizproduction-zh/feed/
+23:55:28	Warning: 	HTML file (40535 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/in-house-training-201902/
+23:55:31	Warning: 	HTML file (957 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-zh/bizservice-zh/feed/
+23:55:34	Warning: 	HTML file (957 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-zh/bizquality-zh/feed/
+23:55:37	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/uploads/นิวแสงชัย.jpg (from www.bizvelocity.biz/wordpress/home-en/)
+23:55:37	Warning: 	HTML file (953 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-zh/bizpos-zh/feed/
+23:55:38	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/uploads/เนสโค.jpg (from www.bizvelocity.biz/wordpress/home-en/)
+23:55:40	Warning: 	HTML file (931 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/feed/
+23:55:43	Warning: 	HTML file (958 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/foods-beverage-zh/feed/
+23:55:46	Warning: 	HTML file (957 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/metal-processing-zh/feed/
+23:55:47	Warning: 	HTML file (946 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/electronics-zh/feed/
+23:55:49	Warning: 	HTML file (947 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/construction-zh/feed/
+23:55:52	Warning: 	HTML file (960 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/wholesale-retail-zh/feed/
+23:55:55	Warning: 	HTML file (935 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/testimonials-zh/feed/
+23:55:57	Warning: 	HTML file (938 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/faq-zh/feed/
+23:55:59	Warning: 	HTML file (37065 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-th/
+23:56:01	Warning: 	HTML file (939 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/contact-us-zh/feed/
+23:56:05	Warning: 	HTML file (1008 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/estate-th/feed/
+23:56:06	Warning: 	HTML file (5544 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/en/author/admin/feed/
+23:56:07	Warning: 	HTML file (3175 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/uncategorized-en/feed/
+23:56:09	Warning: 	HTML file (34654 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solutions-zh/
+23:56:10	Warning: 	HTML file (3742 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/product-en/feed/
+23:56:15	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=327
+23:56:17	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=327
+23:56:17	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=327 to http://www.bizvelocity.biz/wordpress/solutions-en/
+23:56:17	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=330
+23:56:19	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=330
+23:56:19	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=330 to http://www.bizvelocity.biz/wordpress/solutions-en/bizstandard-en/
+23:56:19	Warning: 	HTML file (835 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=335
+23:56:20	Warning: 	HTML file (944 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/livestock-zh/feed/
+23:56:22	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=335
+23:56:22	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=335 to http://www.bizvelocity.biz/wordpress/solutions-en/bizproduction-en/
+23:56:22	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=332
+23:56:24	Warning: 	HTML file (19149 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/author/admin/feed/
+23:56:25	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=332
+23:56:25	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=332 to http://www.bizvelocity.biz/wordpress/solutions-en/bizpos-en/
+23:56:25	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=337
+23:56:25	Warning: 	HTML file (10602 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/uncategorized-th/feed/
+23:56:27	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=337
+23:56:27	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=337 to http://www.bizvelocity.biz/wordpress/solutions-en/bizservice-en/
+23:56:27	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=340
+23:56:31	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=340
+23:56:31	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=340 to http://www.bizvelocity.biz/wordpress/solutions-en/bizquality-en/
+23:56:31	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=307
+23:56:31	Warning: 	HTML file (9474 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/company-news-th/feed/
+23:56:34	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=307
+23:56:34	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=307 to http://www.bizvelocity.biz/wordpress/industry-en/
+23:56:34	Warning: 	HTML file (36866 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-th/estate-th/
+23:56:36	Warning: 	HTML file (9841 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/product-th/feed/
+23:56:39	Warning: 	HTML file (2552 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/upcoming-events-th/feed/
+23:56:41	Warning: 	HTML file (835 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=405
+23:56:42	Warning: 	HTML file (2476 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/forums/feed/
+23:56:43	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=405
+23:56:43	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=405 to http://www.bizvelocity.biz/wordpress/industry-en/foods-beverage-en/
+23:56:43	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=412
+23:56:44	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=412
+23:56:44	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=412 to http://www.bizvelocity.biz/wordpress/industry-en/metal-processing-en/
+23:56:44	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=419
+23:56:46	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=419
+23:56:46	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=419 to http://www.bizvelocity.biz/wordpress/industry-en/construction-en/
+23:56:46	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=426
+23:56:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=426
+23:56:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=426 to http://www.bizvelocity.biz/wordpress/industry-en/electronics-en/
+23:56:48	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=301
+23:56:48	Warning: 	HTML file (2549 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/author/jaruwan-b/feed/
+23:56:50	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=301
+23:56:50	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=301 to http://www.bizvelocity.biz/wordpress/industry-en/wholesale-retail-en/
+23:56:50	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=2310
+23:56:53	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2310
+23:56:53	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2310 to http://www.bizvelocity.biz/wordpress/testimonial-en/
+23:56:53	Warning: 	HTML file (1009 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/wp-content/uploads/
+23:56:54	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/uploads/ (from www.bizvelocity.biz/wordpress/testimonial-en/)
+23:56:54	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=2300
+23:56:56	Warning: 	HTML file (1017 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-intro-th/feed/
+23:56:57	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2300
+23:56:57	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2300 to http://www.bizvelocity.biz/wordpress/faq-en/
+23:56:58	Warning: 	HTML file (1032 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-setup-th/feed/
+23:57:00	Warning: 	HTML file (46360 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/uncategorized-en/
+23:57:01	Warning: 	HTML file (1020 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-procurement-th/feed/
+23:57:04	Warning: 	HTML file (1026 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-sales-th/feed/
+23:57:07	Warning: 	HTML file (37238 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizpos-en/
+23:57:08	Warning: 	HTML file (1019 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-production-th/feed/
+23:57:11	Warning: 	HTML file (1015 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-ethanol-th/feed/
+23:57:14	Warning: 	HTML file (918 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/forums/forum/support/feed/
+23:57:18	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=2307
+23:57:21	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2307
+23:57:21	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2307 to http://www.bizvelocity.biz/wordpress/contact-us-en/
+23:57:22	Warning: 	Retry after error 500 () at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=2 (from www.bizvelocity.biz/wordpress/contact-us-en/)
+23:57:23	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=2
+23:57:27	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2
+23:57:27	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2 to http://www.bizvelocity.biz/wordpress/contact-us-th/
+23:57:27	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4365
+23:57:30	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4365
+23:57:30	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4365 to http://www.bizvelocity.biz/wordpress/in-house-training-201902/
+23:57:30	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4321
+23:57:32	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4321
+23:57:32	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4321 to http://www.bizvelocity.biz/wordpress/total-solution-for-smes-by-dbd/
+23:57:32	Warning: 	HTML file (44582 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/โครงการ-total-solutions-สำหรับ-smes-โดยกรม/
+23:57:37	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=192
+23:57:38	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=192
+23:57:38	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=192 to http://www.bizvelocity.biz/wordpress/solutions-th/
+23:57:38	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solution-th/bizstandard-th/
+23:57:39	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizstandard-th/
+23:57:39	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizstandard-th/ to http://www.bizvelocity.biz/wordpress/solutions-th/bizstandard-th/
+23:57:39	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=62
+23:57:41	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=62
+23:57:41	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=62 to http://www.bizvelocity.biz/wordpress/solutions-th/bizstandard-th/
+23:57:41	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=69
+23:57:43	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=69
+23:57:43	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=69 to http://www.bizvelocity.biz/wordpress/solutions-th/bizpos-th/
+23:57:43	Warning: 	HTML file (833 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=65
+23:57:45	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=65
+23:57:45	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=65 to http://www.bizvelocity.biz/wordpress/solutions-th/bizproduction-th/
+23:57:45	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=323
+23:57:47	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=323
+23:57:47	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=323 to http://www.bizvelocity.biz/wordpress/solutions-th/bizquality-th/
+23:57:47	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=218
+23:57:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=218
+23:57:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=218 to http://www.bizvelocity.biz/wordpress/solutions-th/bizservice-th/
+23:57:48	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=162
+23:57:50	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=162
+23:57:50	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=162 to http://www.bizvelocity.biz/wordpress/industry-th/
+23:57:50	Warning: 	HTML file (835 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=258
+23:57:51	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=258
+23:57:51	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=258 to http://www.bizvelocity.biz/wordpress/industry-th/foods-beverage-th/
+23:57:51	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=275
+23:57:53	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=275
+23:57:53	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=275 to http://www.bizvelocity.biz/wordpress/industry-th/metal-processing-th/
+23:57:53	Warning: 	HTML file (829 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=252
+23:57:54	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=252
+23:57:54	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=252 to http://www.bizvelocity.biz/wordpress/industry-th/electronics-th/
+23:57:54	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=266
+23:57:55	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=266
+23:57:55	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=266 to http://www.bizvelocity.biz/wordpress/industry-th/construction-th/
+23:57:55	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=280
+23:57:57	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=280
+23:57:57	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=280 to http://www.bizvelocity.biz/wordpress/industry-th/wholesale-retail-th/
+23:57:57	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4109
+23:57:58	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4109
+23:57:58	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4109 to http://www.bizvelocity.biz/wordpress/industry-th/livestock-th/
+23:57:58	Warning: 	HTML file (31173 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/industry-zh/livestock-zh/
+23:58:03	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1539
+23:58:05	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1539
+23:58:05	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1539 to http://www.bizvelocity.biz/wordpress/testimonials-th/
+23:58:05	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1570
+23:58:07	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1570
+23:58:07	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1570 to http://www.bizvelocity.biz/wordpress/faq-th/
+23:58:07	Warning: 	HTML file (90087 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/author/admin/
+23:58:15	Warning: 	HTML file (66288 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/uncategorized-th/
+23:58:21	Warning: 	HTML file (43757 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/procurement-th/
+23:58:25	Warning: 	HTML file (42901 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/salessupport2-th/
+23:58:31	Warning: 	HTML file (62267 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/company-news-th/
+23:58:37	Warning: 	HTML file (59394 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/product-th/
+23:58:43	Warning: 	HTML file (42541 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/category/upcoming-events-th/
+23:58:47	Warning: 	HTML file (45013 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/โมดูล-bizproduction-เพื่อธุรกิจการผ-2/
+23:58:51	Warning: 	HTML file (811 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3445
+23:58:52	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3445
+23:58:52	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3445 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/
+23:58:52	Warning: 	HTML file (895 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-intro-th/
+23:58:53	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/bizuniversity-intro-th/
+23:58:53	Warning: 	File has moved from www.bizvelocity.biz/wordpress/bizuniversity-intro-th/ to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-intro-th/
+23:58:53	Warning: 	HTML file (35951 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/forums/
+23:58:56	Warning: 	HTML file (39546 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/forums/topic/your-feedback-th/
+23:58:59	Warning: 	HTML file (945 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4362
+23:59:00	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4362
+23:59:00	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4362 to http://www.bizvelocity.biz/wordpress/%e0%b8%ad%e0%b8%9a%e0%b8%a3%e0%b8%a1-bizvelocity-%e0%b8%a3%e0%b8%ad%e0%b8%9a-201902/
+23:59:00	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1822
+23:59:01	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1822
+23:59:01	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1822 to http://www.bizvelocity.biz/wordpress/solutions-zh/
+23:59:01	Warning: 	HTML file (833 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1827
+23:59:03	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1827
+23:59:03	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1827 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizstandard-zh/
+23:59:03	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1826
+23:59:04	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1826
+23:59:04	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1826 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizproduction-zh/
+23:59:04	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1824
+23:59:05	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1824
+23:59:05	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1824 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizservice-zh/
+23:59:05	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1823
+23:59:07	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1823
+23:59:07	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1823 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizquality-zh/
+23:59:07	Warning: 	HTML file (823 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1825
+23:59:08	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1825
+23:59:08	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1825 to http://www.bizvelocity.biz/wordpress/solutions-zh/bizpos-zh/
+23:59:08	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1850
+23:59:09	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1850
+23:59:09	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1850 to http://www.bizvelocity.biz/wordpress/industry-zh/
+23:59:09	Warning: 	HTML file (837 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1855
+23:59:11	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1855
+23:59:11	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1855 to http://www.bizvelocity.biz/wordpress/industry-zh/foods-beverage-zh/
+23:59:11	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/solution-th/bizstandard-zh/
+23:59:12	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/solution-th/bizstandard-zh/
+23:59:12	Warning: 	File has moved from www.bizvelocity.biz/wordpress/solution-th/bizstandard-zh/ to http://www.bizvelocity.biz/wordpress/solutions-zh/bizstandard-zh/
+23:59:12	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1853
+23:59:14	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1853
+23:59:14	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1853 to http://www.bizvelocity.biz/wordpress/industry-zh/metal-processing-zh/
+23:59:14	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1856
+23:59:15	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1856
+23:59:15	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1856 to http://www.bizvelocity.biz/wordpress/industry-zh/electronics-zh/
+23:59:15	Warning: 	HTML file (833 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1854
+23:59:17	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1854
+23:59:17	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1854 to http://www.bizvelocity.biz/wordpress/industry-zh/construction-zh/
+23:59:17	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1851
+23:59:19	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1851
+23:59:19	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1851 to http://www.bizvelocity.biz/wordpress/industry-zh/wholesale-retail-zh/
+23:59:19	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1813
+23:59:20	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1813
+23:59:20	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1813 to http://www.bizvelocity.biz/wordpress/testimonials-zh/
+23:59:20	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1789
+23:59:22	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1789
+23:59:22	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1789 to http://www.bizvelocity.biz/wordpress/faq-zh/
+23:59:22	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=1797
+23:59:23	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=1797
+23:59:23	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=1797 to http://www.bizvelocity.biz/wordpress/contact-us-zh/
+23:59:23	Warning: 	Retry after error 500 () at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=3 (from www.bizvelocity.biz/wordpress/contact-us-zh/)
+23:59:23	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4279
+23:59:24	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4279
+23:59:24	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4279 to http://www.bizvelocity.biz/wordpress/industry-th/estate-th/
+23:59:24	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3435
+23:59:25	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3435
+23:59:25	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3435 to http://www.bizvelocity.biz/wordpress/bizpos-en/
+23:59:25	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3131
+23:59:26	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3131
+23:59:26	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3131 to http://www.bizvelocity.biz/wordpress/setup-company-setting/
+23:59:26	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3126
+23:59:27	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3126
+23:59:27	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3126 to http://www.bizvelocity.biz/wordpress/bizproduction-for-manufacturer/
+23:59:27	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3122
+23:59:28	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3122
+23:59:28	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3122 to http://www.bizvelocity.biz/wordpress/3122/
+23:59:28	Warning: 	HTML file (45195 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/โมดูล-bizstandard-เพื่อธุรกิจซื้อ/
+23:59:32	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4116
+23:59:33	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4116
+23:59:33	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4116 to http://www.bizvelocity.biz/wordpress/industry-zh/livestock-zh/
+23:59:33	Warning: 	HTML file (51030 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/th/author/admin/page/2/
+23:59:39	Warning: 	HTML file (807 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4004
+23:59:40	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4004
+23:59:40	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4004 to http://www.bizvelocity.biz/wordpress/procurement-th/
+23:59:40	Warning: 	HTML file (811 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3876
+23:59:41	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3876
+23:59:41	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3876 to http://www.bizvelocity.biz/wordpress/salessupport2-th/
+23:59:41	Warning: 	HTML file (44139 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/เยี่ยมชม-บริษัท-เฉินโฟรเ/
+23:59:44	Warning: 	HTML file (45499 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/เยี่ยมชม-บริษัท-ยูเนียน/
+23:59:47	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3729
+23:59:48	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3729
+23:59:48	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3729 to http://www.bizvelocity.biz/wordpress/multi-price/
+23:59:48	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3539
+23:59:49	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3539
+23:59:49	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3539 to http://www.bizvelocity.biz/wordpress/bizquality-th-2/
+23:59:49	Warning: 	HTML file (42946 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/16013936-textile-factory-worker-and-quality-controller-checking-quality/
+23:59:52	Warning: 	HTML file (831 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3512
+23:59:53	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3512
+23:59:53	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3512 to http://www.bizvelocity.biz/wordpress/software-expo-asia-2013-th/
+23:59:53	Warning: 	HTML file (41653 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/img_26491-2/
+23:59:57	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3433
+23:59:58	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3433
+23:59:58	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3433 to http://www.bizvelocity.biz/wordpress/bizpos-th/
+23:59:58	Warning: 	HTML file (1173 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3118
+23:59:59	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3118
+23:59:59	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3118 to http://www.bizvelocity.biz/wordpress/%e0%b9%82%e0%b8%a1%e0%b8%94%e0%b8%b9%e0%b8%a5-bizproduction-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%98%e0%b8%b8%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9c-2/
+23:59:59	Warning: 	HTML file (32859 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-intro-th/
+00:00:03	Warning: 	HTML file (37293 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/forums/forum/support/
+00:00:08	Warning: 	HTML file (35089 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/forums/users/admin/topics/
+00:00:11	Error: 	"" (500) after 2 retries at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=2 (from www.bizvelocity.biz/wordpress/contact-us-en/)
+00:00:11	Warning: 	HTML file (1161 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=2922
+00:00:12	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=2922
+00:00:12	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=2922 to http://www.bizvelocity.biz/wordpress/%e0%b9%80%e0%b8%a2%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a1%e0%b8%8a%e0%b8%a1-%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%a9%e0%b8%b1%e0%b8%97-%e0%b8%a2%e0%b8%b9%e0%b9%80%e0%b8%99%e0%b8%b5%e0%b8%a2%e0%b8%99/
+00:00:12	Warning: 	HTML file (961 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/feed/?attachment_id=3537
+00:00:13	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/feed/?attachment_id=3537
+00:00:13	Warning: 	File has moved from www.bizvelocity.biz/wordpress/feed/?attachment_id=3537 to http://www.bizvelocity.biz/wordpress/16013936-textile-factory-worker-and-quality-controller-checking-quality/
+00:00:13	Warning: 	HTML file (5609 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/wp-login.php?redirect_to=http%3A%2F%2Fwww.bizvelocity.biz%2Fwordpress%2F16013936-textile-factory-worker-and-quality-controller-checking-quality%2F
+00:00:15	Warning: 	HTML file (5429 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/wp-login.php?redirect_to=http%3A%2F%2Fwww.bizvelocity.biz%2Fwordpress%2Fimg_26491-2%2F
+00:00:16	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3740
+00:00:18	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3740
+00:00:18	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3740 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-intro-th/
+00:00:18	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3480
+00:00:19	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3480
+00:00:19	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3480 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-setup-th/
+00:00:19	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3439
+00:00:20	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3439
+00:00:20	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3439 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-procurement-th/
+00:00:20	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3841
+00:00:21	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3841
+00:00:21	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3841 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-sales-th/
+00:00:21	Warning: 	HTML file (867 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3844
+00:00:22	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3844
+00:00:22	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3844 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-production-th/
+00:00:22	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=3940
+00:00:23	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=3940
+00:00:23	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=3940 to http://www.bizvelocity.biz/wordpress/bizuniversity-th/bizuniversity-ethanol-th/
+00:00:23	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/?p=4317
+00:00:24	Warning: 	Moved Permanently for www.bizvelocity.biz/wordpress/?p=4317
+00:00:24	Warning: 	File has moved from www.bizvelocity.biz/wordpress/?p=4317 to http://www.bizvelocity.biz/wordpress/forums/forum/support/
+00:00:24	Error: 	"" (500) after 2 retries at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=3 (from www.bizvelocity.biz/wordpress/contact-us-zh/)
+00:00:28	Warning: 	HTML file (4633 bytes) retransferred due to lack of cache: www.bizvelocity.biz/wordpress/wp-login.php?action=lostpassword
+00:00:29	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/8N/ (from www.bizvelocity.biz/wordpress/wp-content/plugins/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=4.6.1)
+00:00:29	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/6e/ (from www.bizvelocity.biz/wordpress/wp-content/plugins/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=4.6.1)
+00:00:29	Error: 	"Not Found" (404) at link www.bizvelocity.biz/6s/c9/ (from www.bizvelocity.biz/wordpress/wp-content/plugins/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=4.6.1)
+00:00:29	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/js/expressinstall.swf (from www.bizvelocity.biz/wordpress/wp-content/uploads/wpcu3er/jquery.cu3er.js?ver=5.1)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/7m+/ (from www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/js/cforms.js)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/images/global/arrow-up-2.png (from www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/style.css)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/images/global/bg_text_field_3.png (from www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/style.css)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/images/global/main_button_bg_2.jpg (from www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/style.css)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/themes/images/prettyPhoto/facebook/default_thumbnail.gif (from www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/style.css)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/wp-content/themes/images/prettyPhoto/light_rounded/btnNext.png (from www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/style.css)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/th_TH/sdk/xfbml.customerchat.js)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/^([^:/? (from https://connect.facebook.net/th_TH/sdk/xfbml.customerchat.js)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/GET (from https://connect.facebook.net/th_TH/sdk/xfbml.customerchat.js)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/restserver.php (from https://connect.facebook.net/th_TH/sdk/xfbml.customerchat.js)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/dialog/ (from https://connect.facebook.net/th_TH/sdk/xfbml.customerchat.js)
+00:00:44	Error: 	"Not Found" (404) at link www.bizvelocity.biz/wordpress/home-en/youtu.be/ (from www.bizvelocity.biz/wordpress/wp-content/themes/Sterling/framework/js/jquery.prettyPhoto.js?ver=5.1)
+00:00:44	Warning: 	Retry after error 500 () at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=2 (from www.bizvelocity.biz/wordpress/contact-us-en/)
+00:00:44	Warning: 	Retry after error 500 () at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=3 (from www.bizvelocity.biz/wordpress/contact-us-zh/)
+00:00:44	Error: 	"" (500) after 2 retries at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=2 (from www.bizvelocity.biz/wordpress/contact-us-en/)
+00:00:44	Error: 	"" (500) after 2 retries at link www.bizvelocity.biz/wordpress/wp-content/plugins/cforms/cforms-captcha.php?ts=3 (from www.bizvelocity.biz/wordpress/contact-us-zh/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 7 seconds : 680 links scanned, 659 files written (14515627 bytes overall) [11354436 bytes received at 9407 bytes/sec], 5326683 bytes transferred using HTTP compression in 398 files, ratio 24%, 1.0 requests per connection
+(29 errors, 544 warnings, 0 messages)

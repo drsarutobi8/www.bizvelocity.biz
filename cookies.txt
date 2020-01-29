@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bizvelocity.biz	TRUE	/wordpress/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.bizvelocity.biz	TRUE	/	FALSE	1999999999	PHPSESSID	d28ab4uhsvk18ppqqj9n8a03b4
+
